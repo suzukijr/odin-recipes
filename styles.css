@@ -1,0 +1,24 @@
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+
+.photo {
+    height: 500px;
+    width: auto;
+}
+
+.link {
+    font-size: 20px;
+    color: purple;
+    background-color: white;
+}
+
+h3 {
+    background-color: black;
+    color: white;
+}
+
+li {
+    background-color: gray;
+}
